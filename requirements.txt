@@ -1,0 +1,10 @@
+pandas
+opencv-python
+pyserial
+pyttsx3
+scikit-learn
+joblib
+ollama
+streamlit
+plotly
+numpy
